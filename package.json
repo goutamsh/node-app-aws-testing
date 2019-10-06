@@ -1,0 +1,11 @@
+{
+  "name": "node-app-aws-testing",
+  "version": "1.0.0",
+  "description": "Node Application for AWS learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Goutam Shepur",
+  "license": "ISC"
+}
